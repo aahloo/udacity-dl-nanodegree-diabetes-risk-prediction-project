@@ -173,7 +173,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# Project reference docs excluded from repo (per user request)
-Project_Notes.md
-Project_Rubric.md
